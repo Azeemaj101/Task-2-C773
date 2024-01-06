@@ -110,7 +110,7 @@ section {
     background-size:contain; /* Resize the background image to cover the entire container */
 }
 
-.span-icon{
+.span-icon{ 
     background-color: white;
     border: none;
     box-shadow: -2px 2px 5px #ccc;
